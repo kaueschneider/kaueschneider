@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaueschneider" alt="kaueschneider" /></a> </p>
 
-- 🔭 Atualmente, estou trabalhando na [Foursys](https://www.foursys.com.br/)
+- 🔭 Atualmente, estou trabalhando na [Invillia](https://www.invillia.ai/en/home/)
 
 - 🌱 Atualmente estou aprendendo **Angular, SASS, React.**
 
